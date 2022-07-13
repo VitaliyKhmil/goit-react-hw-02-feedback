@@ -8,4 +8,8 @@ export const NotificationMessage = styled.div`
 
 export const NotificationText = styled.p`
   margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: large;
 `;
